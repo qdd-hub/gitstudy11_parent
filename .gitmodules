@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/qdd-hub/gitstudy11_child.git
